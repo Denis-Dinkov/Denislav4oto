@@ -1,21 +1,12 @@
 <h1 align="center">Hi 👋, I'm Denis Dinkov</h1>
 <h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<p align="left"> <a href="https://twitter.com/@denisdinkov" target="blank"><img src="https://img.shields.io/twitter/follow/@denisdinkov?logo=twitter&style=for-the-badge" alt="@denisdinkov" /></a> </p>
 
-- 🔭 I’m currently working on **learn to code.**
-
-- 🌱 I’m currently learning **JavaScript.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Denislav4oto](https://github.com/Denislav4oto)
-
-- 💬 Im interested in **JavaScript, Html, CSS**
-
-- 📫 How to reach me **denisdinkov7@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/denis-dinkov-028487186/](https://www.linkedin.com/in/denis-dinkov-028487186/)
-
-- ⚡ Fun fact **I love coding.**
+- 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- ⚡ Fun fact: I love coding.
+- 💬 Ask me about anything! I am happy to help.
+- 📫 Reach me at: denisdinkov7@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
