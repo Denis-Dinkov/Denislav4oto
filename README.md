@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src=https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg>
+[![MasterHead][](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)
+
 <h3 align="center">My name is Denis Dinkov.</h3>
 
 - 🔭 I’m currently studying at **SoftUni**
