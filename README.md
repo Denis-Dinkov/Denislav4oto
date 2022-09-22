@@ -25,5 +25,5 @@
   <!-- <summary>:zap: GitHub Stats</summary> -->
   <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=denislav4oto&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true&include_all_commits=true" />
 
-  <img height="165em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denislav4oto&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+  <img height="150em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denislav4oto&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
 </p>
