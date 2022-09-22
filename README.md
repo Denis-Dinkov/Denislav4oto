@@ -1,13 +1,23 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/rudrabarad/Gifs))
+<h1 align="center">Hi 👋, I'm Denis Dinkov</h1>
+<h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
 
-<h3 align="center">My name is Denis Dinkov.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denislav4oto" alt="denislav4oto" /></a> </p>
 
-- 🔭 I’m currently studying at **SoftUni**
+<p align="left"> <a href="https://twitter.com/@denisdinkov" target="blank"><img src="https://img.shields.io/twitter/follow/@denisdinkov?logo=twitter&style=for-the-badge" alt="@denisdinkov" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development with JavaScript**
+- 🔭 I’m currently working on **learn to code.**
+
+- 🌱 I’m currently learning **JavaScript.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Denislav4oto](https://github.com/Denislav4oto)
+
+- 💬 Im interested in **JavaScript, Html, CSS**
 
 - 📫 How to reach me **denisdinkov7@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/denis-dinkov-028487186/](https://www.linkedin.com/in/denis-dinkov-028487186/)
+
+- ⚡ Fun fact **I love coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denislav4oto&show_icons=true&locale=en&layout=compact" alt="denislav4oto" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=denislav4oto&show_icons=true&locale=en" alt="denislav4oto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denislav4oto&show_icons=true&locale=en" alt="denislav4oto" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=denislav4oto&" alt="denislav4oto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denislav4oto&" alt="denislav4oto" /></p>
