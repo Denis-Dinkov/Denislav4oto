@@ -1,4 +1,4 @@
-[![MasterHead][](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)
+[![MasterHead][https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/top-6-front-end-web-development-tools-to-increase-your-productivity-in-2020-1.jpg]()
 
 <h3 align="center">My name is Denis Dinkov.</h3>
 
