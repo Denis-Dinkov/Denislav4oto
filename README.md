@@ -1,7 +1,5 @@
 <h3 align="center">My name is Denis Dinkov.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denislav4oto" alt="denislav4oto" /></a> </p>
-
 - 🔭 I’m currently studying at **SoftUni**
 
 - 🌱 I’m currently learning **Web Development with JavaScript**
@@ -10,8 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denis dinkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis dinkov" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100011332802744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011332802744" height="30" width="40" /></a>
+<a href="https://twitter.com/@denisdinkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@denisdinkov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/denis-dinkov-028487186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denis-dinkov-028487186/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/denislav4oto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="denislav4oto" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?viewas=100000686899395&id=100011332802744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?viewas=100000686899395&id=100011332802744" height="30" width="40" /></a>
 <a href="https://instagram.com/denislav4oto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denislav4oto" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denislav4oto&show_icons=true&locale=en" alt="denislav4oto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denislav4oto&" alt="denislav4oto" /></p>
-
