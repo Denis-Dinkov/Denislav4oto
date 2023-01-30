@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Denis Dinkov</h1>
 <h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="400" src="(https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif">
 
 - 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
 - 🌱 I’m currently learning JavaScript, HTML and CSS.
