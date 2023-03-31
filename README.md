@@ -4,8 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhNjIyMzNhOThkZjBkNTQ0NWVkNzJlZTYyMzE1NDJhODhiMTk2OSZjdD1n/q9T36aFCd16CZwDpCb/giphy.gif">
 
 - 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
-- ⚡ Fun fact: I love coding.
+- ⚡ Fun fact: I love tech. 
 - 💬 Ask me about anything! I am happy to help.
 - 📫 Reach me at: denisdinkov7@gmail.com.
 
