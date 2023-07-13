@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Denis Dinkov</h1>
-<h3 align="center">A passionate Web Developer Student at SoftUni.</h3>
+<h3 align="center">A passionate Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBhNjIyMzNhOThkZjBkNTQ0NWVkNzJlZTYyMzE1NDJhODhiMTk2OSZjdD1n/q9T36aFCd16CZwDpCb/giphy.gif">
 
 - 🔭 I’m currently working on delevoping new skills. I'm also looking for JavaScript internship.
