@@ -14,4 +14,4 @@ I'm a Web Developer based in Bulgaria 🇧🇬
  <br/>
 
 ## 🔥My Stats:
-![marians1d's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denislav4oto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=denislav4oto&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
