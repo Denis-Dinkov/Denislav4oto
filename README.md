@@ -5,7 +5,6 @@
 ### About me:
 I'm a Web Developer based in Bulgaria
 
-- 👀 I’m interested in Programming
 - 📫 You can [reach me](https://www.linkedin.com/in/denis-dinkov-028487186/) on LinkedIn
 - 💻 Working @ [IT Business Projects](https://www.linkedin.com/company/itbpbg/)
 <br/>
